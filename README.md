@@ -1,6 +1,6 @@
 # Flex-Fitness
 
-#live link  
+#live link 
 https://fit-gym-7bce5.web.app/
 
 #this is server repo
