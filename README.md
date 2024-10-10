@@ -36,18 +36,21 @@ Fit Gym is a comprehensive gym website that allows users to explore services, si
 - **Version Control:** 
   - Git & GitHub
 
-## Installation
+Installation
+To get started with the Fit Gym application, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/fit-gym.git
-2.  Navigate to the project directory:
-    cd fit-gym
-3.Install the dependencies:
-    npm install
-4.Set up environment variables in a .env file based on the provided .env.example:
-    REACT_APP_STRIPE_PUBLIC_KEY=your_stripe_public_key
-    REACT_APP_API_URL=http://localhost:5000
-5.Start the development server:
-   npm start
+1. Clone the repository
+git clone <repository-url>
+
+2. Navigate to the project directory
+cd fit-gym
+
+3. Install dependencies
+npm install
+
+4. Set up environment variables
+Create a .env file based on the provided .env.example file. Update the environment variables with your own values: REACT_APP_STRIPE_PUBLIC_KEY=your_stripe_public_key and REACT_APP_API_URL=http://localhost:5000. Replace your_stripe_public_key with your actual Stripe public key.
+
+5. Start the development server
+npm start
 
