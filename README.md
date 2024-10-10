@@ -9,7 +9,7 @@
 
 ## Description
 
-Fit Gym is a comprehensive gym website that allows users to explore services, sign up for memberships, and book classes. The platform is designed to provide users with a seamless experience for managing their fitness journey, including secure payments and access to an admin dashboard for management.
+Flex-fitness is a comprehensive gym website that allows users to explore services, sign up for memberships, and book classes. The platform is designed to provide users with a seamless experience for managing their fitness journey, including secure payments and access to an admin dashboard for management.
 
 ## Features
 
